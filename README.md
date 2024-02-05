@@ -7,8 +7,8 @@ Here's a summary of the table:
 
 Data: Contains information about individual Bitcoin transactions, including:
 _Transaction hash
-Block timestamp
-Input and output addresses
+## Block timestamp
+## Input and output addresses
 Amount transferred (in satoshis)
 Transaction fees
 Number of confirmations
